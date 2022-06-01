@@ -1,2 +1,3 @@
 # prebuilt-data-storage
-Random data and pre-built binaries and libraries
+
+Repository containing binary data and pre-built binaries and libraries.
